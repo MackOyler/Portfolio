@@ -5,7 +5,7 @@
   }
   
   body {
-    font-family:'Courier New', Courier, monospace;
+    font-family: cursive;
     line-height: 1.5;
     background-color: #659dbd;
     color: #fbeec1;
@@ -181,10 +181,11 @@
   }
   
   figcaption {
-    background-color: var(--FIGURE-CAPTION);
+    color: black;
     padding: 10px;
     position: absolute;
     bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   /* #contact {

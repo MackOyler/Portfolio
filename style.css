@@ -5,12 +5,14 @@
   }
   
   body {
-    font-family: var(--BODY-FONT-FAMILY);
+    font-family:'Courier New', Courier, monospace;
     line-height: 1.5;
+    background-color: #659dbd;
+    color: #fbeec1;
   }
   
   header {
-    background-color: var(--HEADER-BGCOLOR);
+    background-color: #659dbd;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -27,8 +29,9 @@
   
   header h1 a {
     text-decoration: none;
-    color: #659dbd;
+    color: #fbeec1;
   }
+
   header nav {
     padding-right: 5%;
   }
@@ -42,7 +45,7 @@
   }
   
   .topNav a {
-    color: var(--NAV--LINK-COLOR);
+    color: #fbeec1;
     font-size: 24px;
     text-decoration: none;
     padding: 5px 10px;
@@ -53,7 +56,7 @@
   .topNav a:hover {
     -webkit-box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
-    background-color: var(--NAV--LINK-HOVER);
+    background-color: #fbeec1;
   }
   
   /* change the color and shadow on hover for bottomNav   */
@@ -85,6 +88,7 @@
     position: absolute;
     bottom: 20px;
     right: 5%;
+    font-family: Luminari, fantasy;
   }
   
   /* Main container as grid makes two columns*/

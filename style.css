@@ -67,19 +67,16 @@
   
   /* Hero */
   .hero-banner {
-    background-image: url("../images/02-hero-bg.jpg");
+    background-image: url("./images/pexels-ann-h-1762851.jpg");
     background-position: top;
     background-size: cover;
     background-attachment: fixed;
     height: 195px;
-    /* other background */
-    /* background-image: url("../images/Screenshot.png"); */
     position: relative;
   }
   
   .hero-banner h2 {
-    background-color: var(--HERO-H2-BGCOLOR);
-    color: var(--HERO-H2-COLOR);
+    color: #659dbd;
     font-size: 35px;
     padding: 0 10px;
     display: flex;

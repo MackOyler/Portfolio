@@ -1,10 +1,12 @@
 # Mack Oyler's Portfolio
 
+- THIS IS CURRENTLY UNDER CONSTRUCTION -
+
 ## Live Deployment Link
 - [Portfolio](https://github.com/MackOyler/Portfolio)
 
-## Learning Goals
-The purpose of this webpage was to build a portfolio for potential employers to view samples of my work. 
+## Purpose
+To build a portfolio for potential employers to view samples of my work. 
 
 ## Development Team
 - [Mack Oyler](https://github.com/MackOyler)
